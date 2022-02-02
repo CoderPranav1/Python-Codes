@@ -1,7 +1,7 @@
 from turtle import *
-# Doraemon with Python Turtle
-
-
+#Made BY Coder.Pranav
+#For Code Join Telegram
+#Link In Bio
 def ankur(x, y):
     penup()
     goto(x, y)
