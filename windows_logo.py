@@ -21,3 +21,6 @@ goto(100, 0)
 pendown()
 goto(-100, 0)
 done()
+write(
+    "HAPPY REPUBLIC DAY",
+    font=("Comic Sans", 24, "bold"))

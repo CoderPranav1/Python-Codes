@@ -25,7 +25,7 @@ turtle.write(
     "DAY", #write your name here
     move=False,
     font=("Comic Sans", 24, "bold"))
-goto(-60, -50)
+goto(-60, -60)
 turtle.write(
      "Pranav", #write your name here
     move=False,

@@ -1,5 +1,5 @@
 from turtle import * 
-
+#Made By Coder.Pranav
 from time import sleep
 colormode(255) 
 red=(234, 68, 53); green=(0, 172, 71); yellow=(255, 186, 0); 

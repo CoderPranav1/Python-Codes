@@ -108,7 +108,7 @@ goto(-100, -350)
 turtle.pencolor("black")
 t.pendown()
 turtle.write(
-    "HAPPY INDEPENDENCE DAY",
+    "HAPPY REPUBLIC DAY",
     font=("Comic Sans", 24, "bold"))
 t.penup()
 

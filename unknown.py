@@ -1,6 +1,6 @@
 import turtle
 import colorsys
-#Made By Coder.Pranav
+#Made By AvityCoder.py
 t = turtle.Turtle()
 s = turtle.Screen()
 s.bgcolor('Black')
@@ -12,5 +12,5 @@ for i in range(180):
     c = colorsys.hsv_to_rgb(h, 0.8, 0.9)
     h+= 7/n
     t.color(c)
-    t.right(62778)
+    t.right(12345678910)
     t.forward(i*5)
